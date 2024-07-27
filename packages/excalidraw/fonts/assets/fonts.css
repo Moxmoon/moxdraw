@@ -34,29 +34,8 @@
 }
 
 @font-face {
-  font-family: "Muyao";
-  src: url(./Muyao.woff2) format("woff2");
-  font-weight: 500;
-  style: normal;
-  display: swap;
-}
-@font-face {
-  font-family: "XianJian";
-  src: url(./XianJian.woff2) format("woff2");
-  font-weight: 500;
-  style: normal;
-  display: swap;
-}
-@font-face {
-  font-family: "BaiShou";
-  src: url(./BaiShou.woff2) format("woff2");
-  font-weight: 500;
-  style: normal;
-  display: swap;
-}
-@font-face {
   font-family: "TuYa";
-  src: url(./TuYa.woff2) format("woff2");
+  src: url(https://s39.aconvert.com/convert/p3r68-cdx67/ns2l5-z3tbk.woff2) format("woff2");
   font-weight: 500;
   style: normal;
   display: swap;
