@@ -19,11 +19,11 @@ import Excalifont from "./assets/Excalifont-Regular.woff2";
 import Cascadia from "./assets/CascadiaMono-Regular.woff2";
 import ComicShanns from "./assets/ComicShanns-Regular.woff2";
 import LiberationSans from "./assets/LiberationSans-Regular.woff2";
-import Muyao from "./assets/Muyao.ttf";
-import MuyaoSoftbrush from "./assets/Muyao-Softbrush.ttf";
-import XianJian from "./assets/XianJian.ttf";
-import BaiShou from "./assets/BaiShou.ttf";
-import TuYa from "./assets/TuYa.ttf";
+import Muyao from "./assets/Muyao.woff2";
+// import MuyaoSoftbrush from "./assets/Muyao-Softbrush.woff2";
+import XianJian from "./assets/XianJian.woff2";
+import BaiShou from "./assets/BaiShou.woff2";
+import TuYa from "./assets/TuYa.woff2";
 
 import LilitaLatin from "https://fonts.gstatic.com/s/lilitaone/v15/i7dPIFZ9Zz-WBtRtedDbYEF8RXi4EwQ.woff2";
 import LilitaLatinExt from "https://fonts.gstatic.com/s/lilitaone/v15/i7dPIFZ9Zz-WBtRtedDbYE98RXi4EwSsbg.woff2";
@@ -245,13 +245,13 @@ export class Fonts {
       uri: Muyao,
     });
 
-    _register(
-      "Muyao Softbrush",
-      FONT_METADATA[FONT_FAMILY["Muyao Softbrush"]],
-      {
-        uri: MuyaoSoftbrush,
-      },
-    );
+    // _register(
+    //   "Muyao Softbrush",
+    //   FONT_METADATA[FONT_FAMILY["Muyao Softbrush"]],
+    //   {
+    //     uri: MuyaoSoftbrush,
+    //   },
+    // );
 
     _register("XianJian", FONT_METADATA[FONT_FAMILY.XianJian], {
       uri: XianJian,

@@ -116,15 +116,15 @@ export const FONT_METADATA: Record<number, FontMetadata> = {
     },
     icon: FontFamilyChineseIcon,
   },
-  [FONT_FAMILY["Muyao Softbrush"]]: {
-    metrics: {
-      unitsPerEm: 2048,
-      ascender: 1854,
-      descender: -434,
-      lineHeight: 1.15,
-    },
-    icon: FontFamilyChineseIcon,
-  },
+  // [FONT_FAMILY["Muyao Softbrush"]]: {
+  //   metrics: {
+  //     unitsPerEm: 2048,
+  //     ascender: 1854,
+  //     descender: -434,
+  //     lineHeight: 1.15,
+  //   },
+  //   icon: FontFamilyChineseIcon,
+  // },
   [FONT_FAMILY.XianJian]: {
     metrics: {
       unitsPerEm: 2048,
