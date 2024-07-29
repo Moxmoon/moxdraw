@@ -35,28 +35,28 @@
 
 @font-face {
   font-family: "Muyao";
-  src: url(./Muyao.woff2) format("woff2");
+  src: url(https://docc1.obs.cn-east-3.myhuaweicloud.com/jsc/Muyao.woff2) format("woff2");
   font-weight: 500;
   style: normal;
   display: swap;
 }
 @font-face {
   font-family: "XianJian";
-  src: url(./XianJian.woff2) format("woff2");
+  src: url(https://docc1.obs.cn-east-3.myhuaweicloud.com/jsc/XianJian.woff2) format("woff2");
   font-weight: 500;
   style: normal;
   display: swap;
 }
 @font-face {
   font-family: "BaiShou";
-  src: url(./BaiShou.woff2) format("woff2");
+  src: url(https://docc1.obs.cn-east-3.myhuaweicloud.com/jsc/BaiShou.woff2) format("woff2");
   font-weight: 500;
   style: normal;
   display: swap;
 }
 @font-face {
   font-family: "TuYa";
-  src: url(./TuYa.woff2) format("woff2");
+  src: url(https://docc1.obs.cn-east-3.myhuaweicloud.com/jsc/TuYa.woff2) format("woff2");
   font-weight: 500;
   style: normal;
   display: swap;

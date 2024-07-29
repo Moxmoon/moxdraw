@@ -20,11 +20,11 @@ import Cascadia from "./assets/CascadiaMono-Regular.woff2";
 import ComicShanns from "./assets/ComicShanns-Regular.woff2";
 import LiberationSans from "./assets/LiberationSans-Regular.woff2";
 
-import Muyao from "./assets/Muyao.woff2";
+import Muyao from "https://docc1.obs.cn-east-3.myhuaweicloud.com/jsc/Muyao.woff2";
 // import MuyaoSoftbrush from "./assets/Muyao-Softbrush.woff2";
-import XianJian from "./assets/XianJian.woff2";
-import BaiShou from "./assets/BaiShou.woff2";
-import TuYa from "./assets/TuYa.woff2";
+import XianJian from "https://docc1.obs.cn-east-3.myhuaweicloud.com/jsc/XianJian.woff2";
+import BaiShou from "https://docc1.obs.cn-east-3.myhuaweicloud.com/jsc/BaiShou.woff2";
+import TuYa from "https://docc1.obs.cn-east-3.myhuaweicloud.com/jsc/TuYa.woff2";
 
 import LilitaLatin from "https://fonts.gstatic.com/s/lilitaone/v15/i7dPIFZ9Zz-WBtRtedDbYEF8RXi4EwQ.woff2";
 import LilitaLatinExt from "https://fonts.gstatic.com/s/lilitaone/v15/i7dPIFZ9Zz-WBtRtedDbYE98RXi4EwSsbg.woff2";
